@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sysconf.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\ashwac.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\acp10map.br">
+    <BuildReason>Newest Prerequisite 2025-12-10 13:04:36 newer than target 2025-11-18 12:12:37.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\acp10cfg.br">
+    <BuildReason>Newest Prerequisite 2025-12-10 13:04:36 newer than target 2025-11-18 12:12:38.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\asfw.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\acp10map1.br">
+    <BuildReason>Newest Prerequisite 2025-12-10 13:04:36 newer than target 2025-11-18 12:12:38.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\arnc0cfg.br">
+    <BuildReason>Newest Prerequisite 2025-12-10 13:04:36 newer than target 2025-11-18 12:12:39.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\arnc0map.br">
+    <BuildReason>Newest Prerequisite 2025-12-10 13:04:36 newer than target 2025-11-18 12:12:39.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\ashwd.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\arconfig.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\iomap.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\real\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+</BuildReasons>
